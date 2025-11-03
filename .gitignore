@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.venv/
+venv/
+
+# IDE
+.idea/
+.vscode/
+
+# Env & caches
+.env
+*.log
+.pytest_cache/
+.mypy_cache/
+.DS_Store
